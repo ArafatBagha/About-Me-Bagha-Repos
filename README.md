@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JesseSybur
+- 👋 Hi there
 - 👀 I’m interested in fps games,Esports ,Cybersecurity & Forensics
 - 🌱 I’m currently learning Cyber Law & Criminal Psychology 
 - 💞️ I’m looking to collaborate on python scripts for hacking and other interesting stuff
