@@ -1,7 +1,7 @@
-- 👋 Hi there
+- 👋 Hi there,Arafat here
 - 👀 I’m interested in fps games,Esports ,Cybersecurity & Forensics
-- 🌱 I’m currently learning Cyber Law & Criminal Psychology 
-- 💞️ I’m looking to collaborate on python scripts for hacking and other interesting stuff
+- 🌱 I graduate in Information Systems and Technology (Cybersecurity) & Have a diploma in Criminal Psychology. Currently trying to persue a Master's degree in the same field. 
+- 💞️ I’m looking to collaborate on simple python scripts for hacking / task automation and other interesting stuff
 - 📫 Reach to me on my Twitter (link in Bio)
 
 <!---
